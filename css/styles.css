@@ -110,6 +110,7 @@ a {
 /* ===========TEAM=========== */
 
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -126,6 +127,7 @@ a {
 }
 
 .team-item {
+  background-color: #fff;
 }
 
 .team-image {
